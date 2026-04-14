@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | </title>
+    <link>https://madina-dzhuraboeva.github.io/ru/tags/data-science/</link>
+      <atom:link href="https://madina-dzhuraboeva.github.io/ru/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://madina-dzhuraboeva.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Data Science</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/tags/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/publications/04/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://madina-dzhuraboeva.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🧪 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;На этой неделе я уделила внимание изучению языков научного программирования и их роли в исследовательской деятельности. Эта тема оказалась особенно интересной, так как напрямую связана с анализом данных и решением практических задач.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 Познакомилась с особенностями использования &lt;strong&gt;Python&lt;/strong&gt; в научных задачах — он оказался удобным благодаря большому количеству библиотек для анализа данных и визуализации.&lt;/li&gt;
+&lt;li&gt;📊 Изучила возможности &lt;strong&gt;R&lt;/strong&gt;, который широко применяется в статистике и обработке данных.&lt;/li&gt;
+&lt;li&gt;🔬 Узнала о применении &lt;strong&gt;MATLAB&lt;/strong&gt; для инженерных и математических вычислений.&lt;/li&gt;
+&lt;li&gt;📈 Разобралась, как разные языки помогают работать с большими объемами данных и моделировать процессы.&lt;/li&gt;
+&lt;li&gt;📚 Сравнивала языки между собой, отмечая их преимущества и области применения.&lt;/li&gt;
+&lt;li&gt;🧠 Поняла, что выбор языка зависит не только от задачи, но и от удобства работы, доступных инструментов и целей исследования.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Эта тема помогла мне лучше понять, какие инструменты используются в научной среде и как их можно применять на практике. Я планирую продолжить изучение и попробовать реализовать небольшие проекты с использованием этих языков.&lt;/p&gt;
+&lt;p&gt;А вы уже работали с языками научного программирования? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

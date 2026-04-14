@@ -13,27 +13,24 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://madina-dzhuraboeva.github.io/ru/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://madina-dzhuraboeva.github.io/ru/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://madina-dzhuraboeva.github.io/ru/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://madina-dzhuraboeva.github.io/ru/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://madina-dzhuraboeva.github.io/ru/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://madina-dzhuraboeva.github.io/ru/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Сайт на базе Hugo Academic</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/projects/hugo/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://madina-dzhuraboeva.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-на-базе-hugo-academic&#34;&gt;🌐 Сайт на базе Hugo Academic&lt;/h2&gt;
+&lt;p&gt;На этой неделе я работала над созданием собственного сайта с использованием фреймворка Hugo Academic. Этот опыт оказался полезным и позволил лучше понять принципы разработки статических сайтов.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 Познакомилась с возможностями &lt;strong&gt;Hugo&lt;/strong&gt; — генератора статических сайтов, который отличается высокой скоростью и удобством.&lt;/li&gt;
+&lt;li&gt;🧩 Изучила структуру темы &lt;strong&gt;Academic&lt;/strong&gt;, включая шаблоны, разделы и конфигурационные файлы.&lt;/li&gt;
+&lt;li&gt;🎨 Настраивала внешний вид сайта: меняла темы, шрифты и оформление, чтобы сделать сайт более персонализированным.&lt;/li&gt;
+&lt;li&gt;📄 Добавляла контент — публикации, страницы и посты, используя Markdown.&lt;/li&gt;
+&lt;li&gt;⚙️ Разбиралась с настройкой конфигурационного файла и параметров сайта.&lt;/li&gt;
+&lt;li&gt;🚀 Узнала, как публиковать сайт и обновлять его содержимое.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Работа над сайтом помогла мне лучше понять, как организуется контент и как можно быстро развернуть удобный и функциональный веб-ресурс без сложного программирования.&lt;/p&gt;
+&lt;p&gt;Этот опыт вдохновил меня продолжить изучение веб-разработки и улучшать свой сайт в будущем.&lt;/p&gt;
+&lt;p&gt;А вы пробовали создавать сайты с помощью статических генераторов? 😊&lt;/p&gt;
+</description>
     </item>
     
   </channel>
